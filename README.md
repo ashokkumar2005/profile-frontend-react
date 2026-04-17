@@ -1,31 +1,33 @@
 # 🌐 Portfolio Frontend (React)
 
-This is the frontend of my personal portfolio website built using **React.js** and **Vite**.
-It showcases my profile, projects, skills, and contact information in a modern, responsive UI.
+This is the **frontend of my personal portfolio website**, built using **React.js** and **Vite**.
+It presents my profile, projects, skills, and contact details through a **modern, responsive, and user-friendly interface**.
 
 ---
 
 ## 🚀 Tech Stack
 
-* React.js
-* Vite
-* CSS
-* Axios
-* React Router
+* ⚛️ React.js
+* ⚡ Vite
+* 🎨 CSS3
+* 🔗 Axios
+* 🔀 React Router
 
 ---
 
 ## ✨ Features
 
-* 📱 Responsive and modern portfolio design
-* 🧑‍💻 Project showcase section
-* 📄 Profile and skills display
-* 🔗 API integration with backend
-* 🧩 Component-based architecture
+* 📱 Fully responsive and modern UI design
+* 🧑‍💻 Dynamic project showcase section
+* 📄 Profile and skills presentation
+* 🔌 Seamless API integration with backend
+* 🧩 Scalable component-based architecture
 
 ---
 
 ## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the repository
 
@@ -51,21 +53,32 @@ npm install
 npm run dev
 ```
 
-👉 The app will run at:
-http://localhost:5173
+👉 The application will run at:
+**http://localhost:5173**
 
 ---
 
 ## 🔗 Backend API
 
-This frontend is connected to the backend API running at:
+This frontend connects to a backend server running at:
+
+```
 http://localhost:5000
+```
+
+> ⚠️ Ensure the backend server is running before starting the frontend.
 
 ---
 
 ## 📸 Screenshots
 
-*Add your project screenshots here to showcase UI*
+*Add screenshots here to visually showcase your portfolio UI*
+
+---
+
+## 🌍 Live Demo
+
+🔗 https://onepiece-portfolio-sam.vercel.app/
 
 ---
 
@@ -80,7 +93,17 @@ http://localhost:5000
 
 ## 📌 Notes
 
-* Make sure the backend server is running before starting the frontend
-* Update API URLs if deploying to production
+* Update API base URLs when deploying to production
+* Consider using environment variables (`.env`) for API configuration
+* Optimize assets and enable lazy loading for better performance
+
+---
+
+## ⭐ Future Improvements
+
+* 🎨 Enhance UI/UX with animations
+* 🔐 Add authentication (admin/project management)
+* 🌐 Deploy backend and connect with production API
+* ⚡ Improve performance and SEO
 
 ---
